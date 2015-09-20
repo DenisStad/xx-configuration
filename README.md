@@ -43,3 +43,7 @@ xerxes generate configuration example
 ```
 
 This will create a `configuration` folder in your app's directory if it not exists and put in an example configuration file.
+
+## Tests
+
+In order to run the tests, put `load.js` into `node_modules/xx-configuration`

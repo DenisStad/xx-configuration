@@ -1,0 +1,28 @@
+{
+  "name": "xx-configuration",
+  "version": "1.0.0",
+  "description": "Configuration parameters for xerxes apps",
+  "author": "Denis Stadniczuk",
+  "license": "ISC",
+  "keywords": [
+    "xerxes",
+    "configuration"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenisStad/xx-configuration"
+  },
+
+  "files": [
+    "node_modules/xx-configuration/load.js",
+    "node_modules/xx-configuration/generators"
+  ],
+  "main": "node_modules/xx-configuration/load.js",
+  "scripts": {
+    "test": "node test/app"
+  },
+
+  "devDependencies": {
+    "xerxes": "0.0.9"
+  }
+}

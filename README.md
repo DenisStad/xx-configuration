@@ -28,7 +28,7 @@ exports = module.exports = {
 };
 ```
 
-Load the configurations in you app.js file
+Load the configurations in your app.js file
 
 ```
 App.load("configuration/load");
